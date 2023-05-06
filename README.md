@@ -12,6 +12,8 @@ The theme is focused on leveraging technology to create solutions that can be ea
 
 #### About Intel® oneAPI JupyterLab
 
+![image](https://user-images.githubusercontent.com/70970105/236620109-6958d842-012b-4a0a-9c94-3e8e2120f202.png)
+
 JupyterLab is a popular web-based interactive development environment for data science, machine learning, and scientific computing. It provides a flexible and extensible environment where you can create, edit, and run code cells, visualize data, and generate rich documents that combine code, visualizations, and explanatory text.
 
 OneAPI is an open, standards-based unified programming model from Intel that aims to simplify development across diverse computing architectures, including CPUs, GPUs, FPGAs, and other accelerators. It allows developers to write high-performance code that can seamlessly target different hardware platforms without the need for extensive modifications.
@@ -25,6 +27,10 @@ With JupyterLab and OneAPI, you can prototype, debug, and optimize your code int
 Using Intel® Optimized Frameworks and Intel® oneAPI AI Analytics Toolkit and Libraries to create solutions that can be focused on addressing any aspect of healthcare access, such as financial barriers, lack of transportation, limited healthcare resources, language barriers etc. The related libraries and optimizations for improving performance which will make the solution stand-out in terms of performance are: oneAPIDeep Neural Network Library, Intel oneAPI Math Kernel Library (oneMKL), Intel® oneAPI Threading Building Blocks, Intel® oneAPI Data Analytics Library, Intel® oneAPI DPC++ Library, Intel® Optimization for TensorFlow, Intel® Distribution for Python, Intel® Extension for Scikit-learn etc.
 
 #### About PTB Diagnostic ECG Database
+
+![image](https://user-images.githubusercontent.com/70970105/236620071-ed070db9-4626-4fd5-9832-3a6b26ce0e0c.png)
+
+
 
 PTB Diagnostic ECG Database, is a collection of 549 high-resolution 15-lead ECGs (12 standard leads together with Frank XYZ leads), including clinical summaries for each record. From one to five ECG records are available for each of the 294 subjects, who include healthy subjects as well as patients with a variety of heart diseases.
 
