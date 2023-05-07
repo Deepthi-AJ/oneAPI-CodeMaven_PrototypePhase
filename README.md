@@ -8,6 +8,8 @@ Healthcare for underserved communities
 
 Building an Efficient ECG Auto-diagnosis Application for Underserved Communities using Intel® OneAPI AI Analytics Toolkit in Intel® DevCloud JupyterHub
 
+![image](https://user-images.githubusercontent.com/70970105/236674030-99e2aba8-2711-4bbc-80d8-6e3285a3fbcd.png)
+
 How can we use technology to improve access to healthcare for diagnosis of heart diseases amongst the underserved communities?
 
 The theme is focused on leveraging technology to create solutions that can be easily scalable, affordable, and accessible to everyone, regardless of their background or circumstances.
