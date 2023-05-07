@@ -6,7 +6,9 @@ Healthcare for underserved communities
 
 #### Problem Statement : 
 
-How can we use technology to improve access to healthcare for underserved communities?
+Building an Efficient ECG Auto-diagnosis Application for Underserved Communities using Intel® OneAPI AI Analytics Toolkit in Intel® DevCloud JupyterHub
+
+How can we use technology to improve access to healthcare for diagnosis of heart diseases amongst the underserved communities?
 
 The theme is focused on leveraging technology to create solutions that can be easily scalable, affordable, and accessible to everyone, regardless of their background or circumstances.
 
