@@ -10,7 +10,16 @@ How can we use technology to improve access to healthcare for underserved commun
 
 The theme is focused on leveraging technology to create solutions that can be easily scalable, affordable, and accessible to everyone, regardless of their background or circumstances.
 
-#### About Intel® oneAPI JupyterLab
+#### About Intel® DevCloud JupyterHub
+
+JupyterHub is the next-generation user interface for Intel® DevCloud, which includes existing Jupyter Notebooks and a simplified modular modular structure, where user can open several notebooks or files (e.g. HTML, Text, Markdowns etc) as tabs in the same window.
+
+JupyterLab offers much more of a “modern” IDE-like experience to developers:
+
+~ High performance experience compared to singular inline browser experience . See image : can be customized for remote/distance learning across the world
+~ Public/Private APIs are well separated
+~ Enables JavaScript development for npm-based development/packaging (supports Typescript & Phosphor.js)
+~ User can add 3rd party extensions
 
 ![image](https://user-images.githubusercontent.com/70970105/236620109-6958d842-012b-4a0a-9c94-3e8e2120f202.png)
 
@@ -23,6 +32,8 @@ JupyterLab with OneAPI integration combines the power of JupyterLab's interactiv
 By using JupyterLab with OneAPI, you can write and execute code that takes advantage of the performance and parallelism offered by different hardware devices, such as GPUs and FPGAs. It provides a unified interface for writing and running code across these different architectures, making it easier to explore and optimize your algorithms for specific hardware targets.
 
 With JupyterLab and OneAPI, you can prototype, debug, and optimize your code interactively, visualize data and performance metrics, and document your work in a reproducible and shareable manner. It empowers you to explore the full potential of heterogeneous computing and accelerate your development and research workflows.
+
+The Intel oneAPI AI Analytics Toolkit (AI Kit) provides a consolidated package of Intel’s latest deep and machine learning optimizations all in one place with seamless interoperability and high performance. The AI Kit includes Intel-optimized versions of deep learning frameworks, Python libraries, and a lightweight parallel data frame to streamline end-to-end data science and AI workflows on Intel architectures. The AI Kit includes the Intel Distribution for Python (including optimizations for XGBoost, daal4py, and more),.
 
 Using Intel® Optimized Frameworks and Intel® oneAPI AI Analytics Toolkit and Libraries to create solutions that can be focused on addressing any aspect of healthcare access, such as financial barriers, lack of transportation, limited healthcare resources, language barriers etc. The related libraries and optimizations for improving performance which will make the solution stand-out in terms of performance are: oneAPIDeep Neural Network Library, Intel oneAPI Math Kernel Library (oneMKL), Intel® oneAPI Threading Building Blocks, Intel® oneAPI Data Analytics Library, Intel® oneAPI DPC++ Library, Intel® Optimization for TensorFlow, Intel® Distribution for Python, Intel® Extension for Scikit-learn etc.
 
