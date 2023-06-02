@@ -1,0 +1,1 @@
+{"model_params": {"objective": "multi:softmax", "num_class": 6, "random_state": 42}, "model_weights": "xgboost_model_weights_f1.bin"}

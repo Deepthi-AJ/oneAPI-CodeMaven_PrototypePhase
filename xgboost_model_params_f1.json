@@ -1,0 +1,1 @@
+{"objective": "multi:softmax", "num_class": 6, "random_state": 42}
