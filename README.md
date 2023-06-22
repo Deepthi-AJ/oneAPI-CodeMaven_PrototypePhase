@@ -11,9 +11,11 @@ Building an Efficient [ECG Auto-diagnosis Application](https://huggingface.co/sp
 
 ![image](https://user-images.githubusercontent.com/70970105/236674030-99e2aba8-2711-4bbc-80d8-6e3285a3fbcd.png)
 
-How can we use technology to improve access to healthcare for diagnosis of heart diseases amongst the underserved communities?
+[How can we use technology to improve access to healthcare for diagnosis of heart diseases amongst the underserved communities?](https://medium.com/@deepthiaj/building-an-efficient-ecg-auto-diagnosis-application-for-underserved-communities-using-intel-a05059829739)
 
 The theme is focused on leveraging technology to create solutions that can be easily scalable, affordable, and accessible to everyone, regardless of their background or circumstances.
+
+More detailed experience through the development of this project can be found in this [article](https://medium.com/@deepthiaj/my-experience-using-the-intel-oneapi-ai-toolkit-in-developing-an-efficient-ecg-application-for-9679763aa167).
 
 #### About Intel® DevCloud JupyterHub
 
