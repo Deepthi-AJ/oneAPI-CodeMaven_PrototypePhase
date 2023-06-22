@@ -15,7 +15,7 @@ Building an Efficient [ECG Auto-diagnosis Application](https://huggingface.co/sp
 
 The theme is focused on leveraging technology to create solutions that can be easily scalable, affordable, and accessible to everyone, regardless of their background or circumstances.
 
-More detailed experience through the development of this project can be found in this [article](https://medium.com/@deepthiaj/my-experience-using-the-intel-oneapi-ai-toolkit-in-developing-an-efficient-ecg-application-for-9679763aa167). To know more about the Intel oneAPI toolkit features leveraged in the web application developed using Streamlit can be found [here](https://medium.com/@deepthiaj/streamlit-and-intel-oneapi-support-unleashing-the-power-of-interactive-data-visualization-and-61bbabe7f417). 
+More detailed experience through the development of this project can be found in this [article](https://medium.com/@deepthiaj/my-experience-using-the-intel-oneapi-ai-toolkit-in-developing-an-efficient-ecg-application-for-9679763aa167). The [web application using Streamlit is build upon the performance benefits offered by Intel oneAPI toolkit](https://medium.com/@deepthiaj/streamlit-and-intel-oneapi-support-unleashing-the-power-of-interactive-data-visualization-and-61bbabe7f417). The [XGBoost and daal4py models used in the application also leverages the Intel oneAPI](https://medium.com/@deepthiaj/xgboost-vs-daal4py-unleashing-the-power-of-intel-oneapi-in-machine-learning-96b1836051f4) benefits.
 
 #### About Intel® DevCloud JupyterHub
 
@@ -50,7 +50,7 @@ Using Intel® Optimized Frameworks and Intel® oneAPI AI Analytics Toolkit and L
 
 
 
-PTB Diagnostic ECG Database, is a collection of 549 high-resolution 15-lead ECGs (12 standard leads together with Frank XYZ leads), including clinical summaries for each record. From one to five ECG records are available for each of the 294 subjects, who include healthy subjects as well as patients with a variety of heart diseases.
+[PTB Diagnostic ECG Database](https://www.physionet.org/content/ptbdb/1.0.0/), is a collection of 549 high-resolution 15-lead ECGs (12 standard leads together with Frank XYZ leads), including clinical summaries for each record. From one to five ECG records are available for each of the 294 subjects, who include healthy subjects as well as patients with a variety of heart diseases.
 
 ###### Data Description
 
