@@ -32,9 +32,9 @@ JupyterLab offers much more of a “modern” IDE-like experience to developers:
 
 JupyterLab is a popular web-based interactive development environment for data science, machine learning, and scientific computing. It provides a flexible and extensible environment where you can create, edit, and run code cells, visualize data, and generate rich documents that combine code, visualizations, and explanatory text.
 
-OneAPI is an open, standards-based unified programming model from Intel that aims to simplify development across diverse computing architectures, including CPUs, GPUs, FPGAs, and other accelerators. It allows developers to write high-performance code that can seamlessly target different hardware platforms without the need for extensive modifications.
+[OneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html#gs.1dwtst) is an open, standards-based unified programming model from Intel that aims to simplify development across diverse computing architectures, including CPUs, GPUs, FPGAs, and other accelerators. It allows developers to write high-performance code that can seamlessly target different hardware platforms without the need for extensive modifications.
 
-JupyterLab with OneAPI integration combines the power of JupyterLab's interactive and collaborative environment with the capabilities of OneAPI's hardware-agnostic programming model. This integration allows developers and data scientists to leverage OneAPI's libraries and tools directly within JupyterLab to develop and optimize applications for various hardware architectures.
+JupyterLab with oneAPI integration combines the power of JupyterLab's interactive and collaborative environment with the capabilities of OneAPI's hardware-agnostic programming model. This integration allows developers and data scientists to leverage OneAPI's libraries and tools directly within JupyterLab to develop and optimize applications for various hardware architectures.
 
 By using JupyterLab with OneAPI, you can write and execute code that takes advantage of the performance and parallelism offered by different hardware devices, such as GPUs and FPGAs. It provides a unified interface for writing and running code across these different architectures, making it easier to explore and optimize your algorithms for specific hardware targets.
 
