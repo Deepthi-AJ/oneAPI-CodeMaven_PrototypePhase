@@ -15,7 +15,7 @@ Building an Efficient [ECG Auto-diagnosis Application](https://huggingface.co/sp
 
 The theme is focused on leveraging technology to create solutions that can be easily scalable, affordable, and accessible to everyone, regardless of their background or circumstances.
 
-More detailed experience through the development of this project can be found in this [article](https://medium.com/@deepthiaj/my-experience-using-the-intel-oneapi-ai-toolkit-in-developing-an-efficient-ecg-application-for-9679763aa167).
+More detailed experience through the development of this project can be found in this [article](https://medium.com/@deepthiaj/my-experience-using-the-intel-oneapi-ai-toolkit-in-developing-an-efficient-ecg-application-for-9679763aa167). To know more about the Intel oneAPI toolkit features leveraged in the web application developed using Streamlit can be found [here](https://medium.com/@deepthiaj/streamlit-and-intel-oneapi-support-unleashing-the-power-of-interactive-data-visualization-and-61bbabe7f417). 
 
 #### About Intel® DevCloud JupyterHub
 
