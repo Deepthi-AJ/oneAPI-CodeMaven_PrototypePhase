@@ -7,7 +7,7 @@ Healthcare for underserved communities
 
 #### Problem Statement : 
 
-Building an Efficient [ECG Auto-diagnosis Application](https://huggingface.co/spaces/deepthiaj/Electro_oneAPI) for Underserved Communities using Intel® OneAPI AI Analytics Toolkit in Intel® DevCloud JupyterHub
+Building an Efficient [ECG Auto-diagnosis Application](https://huggingface.co/spaces/deepthiaj/Electro_oneAPI) for Underserved Communities using Intel® oneAPI AI Analytics Toolkit in Intel® DevCloud JupyterHub
 
 ![image](https://user-images.githubusercontent.com/70970105/236674030-99e2aba8-2711-4bbc-80d8-6e3285a3fbcd.png)
 
